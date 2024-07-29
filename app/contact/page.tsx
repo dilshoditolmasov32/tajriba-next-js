@@ -3,7 +3,7 @@ import React from 'react'
 const Index = () => {
   return (
     <div>
-      Asosiy sahifa
+      Contact Page
     </div>
   )
 }
